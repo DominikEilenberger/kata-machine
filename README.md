@@ -87,6 +87,10 @@ for testing each day.
 yarn test
 ```
 
+```
+npx jest [testfile]
+```
+
 I have yet to create a testing strategy for next sets of algorithms, but we
 will get there when i cross that bridge.
 
